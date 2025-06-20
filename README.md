@@ -5,13 +5,13 @@ Estructura de nomenclatura
 [tipo]-[descripcion]-[variante].[extension]
 
 
-images/
-│   ├── banners/
-│   │   ├── banner-hero-main.jpg
-│   │   └── banner-promo-sale.png
-│   ├── logos/
-│   │   ├── logo-principal.svg
-│   │   └── logo-horizontal.png
-│   ├── icons/
-│   │   ├── icon-menu.svg
+images/  
+│   ├── banners/  
+│   │   ├── banner-hero-main.jpg  
+│   │   └── banner-promo-sale.png  
+│   ├── logos/  
+│   ├── logo-principal.svg     
+│   │   └── logo-horizontal.png   
+│   ├── icons/   
+│   │   ├── icon-menu.svg   
 │   │   └── icon-search.png
