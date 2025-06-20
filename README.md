@@ -1,7 +1,7 @@
 # yape-exterior
 Se agregará contenido para mailing de yape al exterior
 
-Estructura de nomenclatura
+Estructura de nomenclatura  
 [tipo]-[descripcion]-[variante].[extension]
 
 
